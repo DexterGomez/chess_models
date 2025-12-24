@@ -1,4 +1,5 @@
 mlx
+mlx[cpu]
 torch
 h5py
 tqdm
